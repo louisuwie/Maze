@@ -369,3 +369,5 @@ if userChoice == 3:
         
         else:
             print("Please choose a valid direction!")
+
+#FINISHED
